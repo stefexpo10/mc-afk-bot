@@ -1,0 +1,14 @@
+{
+  "name": "mc-afk-bot",
+  "version": "1.0.0",
+  "description": "Bot Minecraft cu reconectare automata (Mineflayer)",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.20.0"
+  }
+}
