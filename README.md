@@ -2,8 +2,6 @@
 
 Bot Minecraft (Mineflayer) care se reconecteaza automat si sare periodic ca sa nu fie dat afara pentru inactivitate.
 
-> **Important:** pe Falix (plan free) boții care țin serverul pornit sunt interziși și duc la suspendarea contului. Folosește botul doar pe un VPS propriu sau pe un host care permite boți.
-
 ## Pasul 1: pune proiectul pe GitHub (de pe telefon)
 1. Creeaza cont pe github.com, apasa **New repository**, nume `mc-afk-bot`.
 2. Apasa **uploading an existing file** si incarca: `bot.js`, `package.json`, `.gitignore`, `.env.example`, `ecosystem.config.js`, `README.md`.
